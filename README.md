@@ -4,4 +4,6 @@
 > ⚠️ Work in progress
 
 ## Run
-Just hit play.
+- Set Mapbox token in the menu `Mapbox > Configure`.
+- Configure styles in the various components.
+- Hit play.
